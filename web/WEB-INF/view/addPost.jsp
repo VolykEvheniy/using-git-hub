@@ -19,7 +19,7 @@
             </div>
         </c:if>
         <a class="" href="logout">Logout</a>
-        <a class="" href="createAccount">Створити акаунт</a>
+        <a class="" href="createAccount">Создать аккаунт</a>
     </nav>
     <h2 style="margin-top: 60px">Додати допис</h2>
     <form action="addPost" method="post">
